@@ -154,3 +154,4 @@ ENV/
 
 /config.py
 !/config.py
+/.idea/
